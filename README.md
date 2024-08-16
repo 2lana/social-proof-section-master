@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/2lana/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://peppy-snickerdoodle-2e2160.netlify.app/)
 
 ## My process
 
